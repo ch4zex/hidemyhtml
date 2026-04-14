@@ -1,0 +1,5 @@
+#Block your html file like this
+
+<Files "yourfile.html">
+    Require all denied
+</Files>
