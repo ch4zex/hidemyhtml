@@ -4,6 +4,10 @@ A lightweight, drop-in PHP script to protect any static HTML file behind a beaut
 
 Perfect for sharing private documents, personal dashboards, or small projects without the need to set up a full database or a complex authentication system.
 
+   <div align="center">
+      <img src="assets/password.png" width="600" alt="showcase" />
+   </div>
+
 ## Features
 
 *   **Simple Setup:** The main logic and UI are bundled in one `index.php` file.
